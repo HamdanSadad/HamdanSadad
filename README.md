@@ -1,7 +1,7 @@
 # HELLO EVERYONE, I'M JUNIOR WEB DEVELOPMENT
 
 # 💫 About Me:
-🔭 I’m currently working on Trusmi group<br>👯 I’m looking to collaborate<br>🌱 I’m currently learning PHP<br>💬 Ask me about<br>
+I am a student, 5th semester at Muhammadiyah University Cirebon, I have an interest in IT, especially in web development, and I am always learning.
 
 
 # 🌐 Socials:
