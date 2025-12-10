@@ -1,4 +1,5 @@
-# HELLO EVERYONE, I'M JUNIOR WEB DEVELOPMENT
+<h1 align="center">Hello Everyone <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="35" /></h1>
+
 
 # 💫 About Me:
 I am a student, 5th semester at Muhammadiyah University Cirebon, I have an interest in IT, especially in web development, and I am always learning.
