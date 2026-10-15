@@ -1,6 +1,6 @@
 <div align="center">
 
-Hi there, I'm Hamdan Sadad 👋
+<h1>Hi there, I'm Hamdan Sadad 👋</h1>
 Software Engineer | Web Developer | IT Programmer | Quality Assurance
 <p>
   <a href="https://github.com/HamdanSadad">
@@ -124,9 +124,6 @@ Explore my repositories for source code and other learning projects: github.com/
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamdanSadad&theme=github-compact&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
 </div>
 
-📄 Curriculum Vitae
-You can find my CV in this repository: [**View / Download CV (PDF)**](CV_Hamdan_Sadad.pdf).
-To activate this link, upload your latest CV PDF to the root of this profile repository and name it CV_Hamdan_Sadad.pdf.
 
 🤝 Let's Connect
 I'm interested in software development opportunities, collaborative projects, and learning from other developers.
