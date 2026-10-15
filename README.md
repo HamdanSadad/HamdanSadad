@@ -1,78 +1,177 @@
 <div align="center">
 
-<h1>Hi, I'm Hamdan Sadad 👋</h1>
-<p><strong>Software Engineer · Web Developer · Quality Assurance</strong></p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Hamdan%20Sadad&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Software%20Engineer%20%7C%20Web%20Developer%20%7C%20QA&descAlignY=60&descSize=16" width="100%" alt="Hamdan Sadad profile banner" />
 
-<a href="https://github.com/HamdanSadad">
-  <img src="https://komarev.com/ghpvc/?username=HamdanSadad&style=flat-square&color=0e75b6" alt="Profile views" />
-</a>
-<a href="https://github.com/HamdanSadad?tab=followers">
-  <img src="https://img.shields.io/github/followers/HamdanSadad?style=flat-square&logo=github&label=Followers" alt="GitHub followers" />
-</a>
+<p>
+  <a href="https://github.com/HamdanSadad">
+    <img src="https://komarev.com/ghpvc/?username=HamdanSadad&style=for-the-badge&color=2C5364" alt="Profile views" />
+  </a>
+  <a href="https://github.com/HamdanSadad?tab=followers">
+    <img src="https://img.shields.io/github/followers/HamdanSadad?style=for-the-badge&logo=github&label=Followers&color=203A43" alt="GitHub followers" />
+  </a>
+</p>
 
 <a href="https://www.linkedin.com/in/hamdansadad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:hamdansadad8@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://github.com/HamdanSadad?tab=repositories"><img src="https://img.shields.io/badge/Repositories-Explore-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
 </div>
 
-👨‍💻 About
-Informatics Engineering student at Universitas Muhammadiyah Cirebon · Semester 7. Interested in building practical web applications, improving software quality, and solving problems through technology.
+👋 About Me
+I'm a 7th-semester Informatics Engineering student at Universitas Muhammadiyah Cirebon, focused on creating useful web applications and improving software quality.
 - 💼 Experience: IT Programmer / Web Developer & QA/QC Intern at Trusmi Group
-- 🔎 Focus: Web Development · Software Engineering · Functional Testing
-- 📍 Location: Cirebon, Indonesia
-🧰 Tech Stack
-Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css,kotlin&perline=7" alt="PHP, Python, JavaScript, TypeScript, HTML, CSS, Kotlin" />
+- 🧭 Focus: Web Development · Software Engineering · Functional Testing
+- 📍 Based in: Cirebon, Indonesia
+🧩 Tech Stack
+<p align="left">
+  <strong>Languages</strong><br/>
+  <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css,kotlin&theme=dark&perline=7" alt="Programming languages" />
 </p>
 
-Frameworks & Libraries
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flask,bootstrap,tailwind&perline=6" alt="Laravel, React, Next.js, Flask, Bootstrap, Tailwind CSS" />
+<p align="left">
+  <strong>Frameworks & Libraries</strong><br/>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flask,bootstrap,tailwind&theme=dark&perline=6" alt="Frameworks and libraries" />
+  <br/>
+  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
-Database & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,figma&perline=7" alt="MySQL, PostgreSQL, SQLite, Git, GitHub, VS Code, Figma" />
+<p align="left">
+  <strong>Database & Tools</strong><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,figma&theme=dark&perline=7" alt="Databases and tools" />
 </p>
 
-<sub>Also familiar with CodeIgniter, Framer Motion, GSAP, MySQL Workbench, Navicat, WinSCP, and Excel.</sub>
+<sub>Also familiar with MySQL Workbench, Navicat, WinSCP, Microsoft Excel, and Pivot Tables.</sub>
 💼 Experience
-Trusmi Group · IT Programmer / Web Developer & QA/QC Intern
-<sub>November 2025 – February 2026</sub>
-- Built website search and Excel/Word export features using PHP Native, HTML, CSS, and JavaScript.
+<details open>
+<summary><strong>Trusmi Group · IT Programmer / Web Developer & QA/QC Intern</strong> — <em>Nov 2025 – Feb 2026</em></summary>
+
+- Built search and Excel/Word export features for the Leaderboard KPI website.
 - Developed an employee attendance website with name search and photo upload.
 - Performed functional testing, QA/QC, and data validation.
+Technologies: PHP Native · HTML · CSS · JavaScript · Excel · WinSCP
+</details>
+
 🚀 Selected Projects
-Project	Description	Stack
-CoffeeShop RFC	Ordering and inventory management website	Laravel · MySQL · Bootstrap
-Wedding Organizer	Modern service landing page	React · Next.js · TypeScript · Tailwind CSS
-Todo Planner	Android task, reminder, and progress tracker	Kotlin · Android Studio
-Employee Attendance	Employee attendance management website	PHP · MySQL · Bootstrap
-Himasantika Website	Organization website with interactive UI	HTML · CSS · JavaScript
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>☕ CoffeeShop RFC</h3>
+      Ordering and inventory management website.<br/><br/>
+      <sub>Laravel · MySQL · Bootstrap</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💍 Wedding Organizer</h3>
+      Modern landing page for wedding services.<br/><br/>
+      <sub>React · Next.js · TypeScript · Tailwind CSS</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✅ Todo Planner</h3>
+      Android app for tasks, reminders, and progress tracking.<br/><br/>
+      <sub>Kotlin · Android Studio</sub>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧑‍💼 Employee Attendance</h3>
+      Web-based employee attendance management system.<br/><br/>
+      <sub>PHP · MySQL · Bootstrap</sub>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🌐 Himasantika Website</h3>
+      Collaborative organization website with interactive UI.<br/><br/>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+  </tr>
+</table>
 
+<p align="center">
+  <a href="https://github.com/HamdanSadad?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-2C5364?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />
+  </a>
+</p>
 
-<sub>More projects: <a href="https://github.com/HamdanSadad?tab=repositories">browse my repositories →</a></sub>
-📊 GitHub Overview
+📈 GitHub Activity
 <div align="center">
-  <a href="https://github.com/HamdanSadad">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=HamdanSadad&show_icons=true&hide_title=true&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  </a>
-  <a href="https://github.com/HamdanSadad">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanSadad&layout=compact&hide_border=true&langs_count=6" alt="Top languages" />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=HamdanSadad&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanSadad&layout=compact&langs_count=6&hide_border=true&theme=transparent" height="170" alt="Top languages" />
+
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamdanSadad&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
+
 </div>
 
-If the stats cards do not load: the image service may be temporarily rate-limited or unavailable. Refresh later, or deploy your own instance of GitHub Readme Stats for more reliable results.
+🟩 Contribution Snake
+<div align="center">
+
+<!--
+To enable the animated contribution snake:
+1. Open the repository's Settings → Secrets and variables → Actions.
+2. Create a GitHub Actions workflow at .github/workflows/snake.yml using the example below.
+3. Commit and push the workflow to the default branch.
+4. After the workflow runs, the generated SVG will be available on the output branch.
+-->
+
+<p>
+  <img src="https://raw.githubusercontent.com/HamdanSadad/HamdanSadad/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+</p>
+
+<sub>If the snake image does not appear yet, enable the GitHub Actions workflow described below and run it once.</sub>
+</div>
+
+<details>
+<summary><strong>⚙️ Setup the contribution snake animation</strong></summary>
+
+Create .github/workflows/snake.yml in this profile repository and paste:
+name: Generate contribution snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: HamdanSadad
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - name: Publish snake to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+After adding the workflow, open the Actions tab and run Generate contribution snake manually once. Make sure Actions are enabled and the workflow has permission to write to the repository.
+</details>
 
 🎓 Education & Certification
-- Universitas Muhammadiyah Cirebon — S1 Informatika, Semester 7
+- Universitas Muhammadiyah Cirebon — S1 Informatika · Semester 7
 - BNSP Junior Web Development — BPSDM KOMDIGI
-📄 CV & Contact
-<a href="https://www.linkedin.com/in/hamdansadad/">LinkedIn</a> ·
-<a href="mailto:hamdansadad8@gmail.com">Email</a> ·
-<a href="https://github.com/HamdanSadad">GitHub</a>
-<sub>To add your CV here, upload the PDF to this repository as <code>CV_Hamdan_Sadad.pdf</code>, then link it here.</sub>
+📬 Contact
+<p align="left">
+  <a href="https://www.linkedin.com/in/hamdansadad/"><img src="https://img.shields.io/badge/LinkedIn-Hamdan_Sadad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hamdansadad8@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<sub>CV: upload your PDF to this repository as <code>CV_Hamdan_Sadad.pdf</code> and add its link here.</sub>
 <div align="center">
-  <sub><em>Build with purpose. Learn continuously. Improve every day.</em></sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0F2027,50:203A43,100:2C5364" width="100%" alt="Footer banner" />
+  <em>Build with purpose. Learn continuously. Improve every day.</em>
 </div>
