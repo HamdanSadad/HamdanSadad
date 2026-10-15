@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>Hi there, I'm Hamdan Sadad 👋</h1>
-Software Engineer | Quality Assurance
+<h2>Software Engineer | Quality Assurance</h2>
 <p>
   <a href="https://github.com/HamdanSadad">
     <img src="https://komarev.com/ghpvc/?username=HamdanSadad&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
