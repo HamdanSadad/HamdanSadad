@@ -42,6 +42,16 @@ Database & Tools
 </p>
 
 <sub>Also familiar with MySQL Workbench, Navicat, WinSCP, Microsoft Excel, and Pivot Tables.</sub>
+
+🎓 Education & Certification
+- Universitas Muhammadiyah Cirebon — S1 Informatika · Semester 7
+- BNSP Junior Web Development — BPSDM KOMDIGI
+📬 Contact
+<p align="left">
+  <a href="https://www.linkedin.com/in/hamdansadad/"><img src="https://img.shields.io/badge/LinkedIn-Hamdan_Sadad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:hamdansadad8@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
 💼 Experience
 <details open>
 <summary><strong>Trusmi Group · IT Programmer / Web Developer & QA/QC Intern</strong> — <em>Nov 2025 – Feb 2026</em></summary>
@@ -105,15 +115,6 @@ Technologies: PHP Native · HTML · CSS · JavaScript · Excel · WinSCP
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanSadad&layout=compact&langs_count=6&hide_border=true&theme=transparent" height="170" alt="Top languages" />
 
 </div>
-
-🎓 Education & Certification
-- Universitas Muhammadiyah Cirebon — S1 Informatika · Semester 7
-- BNSP Junior Web Development — BPSDM KOMDIGI
-📬 Contact
-<p align="left">
-  <a href="https://www.linkedin.com/in/hamdansadad/"><img src="https://img.shields.io/badge/LinkedIn-Hamdan_Sadad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hamdansadad8@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0F2027,50:203A43,100:2C5364" width="100%" alt="Footer banner" />
