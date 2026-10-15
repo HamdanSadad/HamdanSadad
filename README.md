@@ -17,28 +17,28 @@
 </div>
 
 👋 About Me
-I'm a 7th-semester Informatics Engineering student at Universitas Muhammadiyah Cirebon, focused on creating useful web applications and improving software quality.
+I'm a 7th-semester Informatics Engineering student at Universitas Muhammadiyah Cirebon, focused on building practical web applications and improving software quality.
 - 💼 Experience: IT Programmer / Web Developer & QA/QC Intern at Trusmi Group
 - 🧭 Focus: Web Development · Software Engineering · Functional Testing
 - 📍 Based in: Cirebon, Indonesia
 🧩 Tech Stack
-<p align="left">
-  <strong>Languages</strong><br/>
-  <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css,kotlin&theme=dark&perline=7" alt="Programming languages" />
+Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,javascript,typescript,html,css,kotlin&theme=dark&perline=7" alt="PHP, Python, JavaScript, TypeScript, HTML, CSS, Kotlin" />
 </p>
 
-<p align="left">
-  <strong>Frameworks & Libraries</strong><br/>
-  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flask,bootstrap,tailwind&theme=dark&perline=6" alt="Frameworks and libraries" />
+Frameworks & Libraries
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,react,nextjs,flask,bootstrap,tailwind&theme=dark&perline=6" alt="Laravel, React, Next.js, Flask, Bootstrap, Tailwind CSS" />
   <br/>
   <img src="https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white" alt="CodeIgniter" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
   <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
 </p>
 
-<p align="left">
-  <strong>Database & Tools</strong><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,figma&theme=dark&perline=7" alt="Databases and tools" />
+Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,vscode,figma&theme=dark&perline=7" alt="MySQL, PostgreSQL, SQLite, Git, GitHub, VS Code, Figma" />
 </p>
 
 <sub>Also familiar with MySQL Workbench, Navicat, WinSCP, Microsoft Excel, and Pivot Tables.</sub>
@@ -63,26 +63,31 @@ Technologies: PHP Native · HTML · CSS · JavaScript · Excel · WinSCP
     <td width="50%" valign="top">
       <h3>💍 Wedding Organizer</h3>
       Modern landing page for wedding services.<br/><br/>
-      <sub>React · Next.js · TypeScript · Tailwind CSS</sub>
+      <sub>React · Next.js · TypeScript · Tailwind CSS · GSAP</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✅ Todo Planner</h3>
-      Android app for tasks, reminders, and progress tracking.<br/><br/>
-      <sub>Kotlin · Android Studio</sub>
+      <h3>🚀 Flowstack (FlowTask)</h3>
+      Responsive full-stack task manager with a modern UI and smooth micro-animations.
+      <br/><br/>
+      <sub>React 19 · Vite · TypeScript · Tailwind CSS · GSAP · Node.js · Express · Prisma · PostgreSQL · JWT</sub>
+      <br/><br/>
+      <sub>Deploy: Vercel · Render · Neon</sub>
     </td>
     <td width="50%" valign="top">
-      <h3>🧑‍💼 Employee Attendance</h3>
-      Web-based employee attendance management system.<br/><br/>
-      <sub>PHP · MySQL · Bootstrap</sub>
+      <h3>🌫️ Cirebon PM2.5 Prediction</h3>
+      Smart web app predicting air pollution for T+6 and T+24 hours using XGBoost and live weather data.
+      <br/><br/>
+      <sub>Python · Flask · XGBoost · Pandas · Scikit-learn · Open-Meteo · Chart.js</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🌐 Himasantika Website</h3>
-      Collaborative organization website with interactive UI.<br/><br/>
-      <sub>HTML · CSS · JavaScript</sub>
+      <h3>🧑‍💼 Employee Attendance</h3>
+      Web-based employee attendance management system with name search and photo upload.
+      <br/><br/>
+      <sub>PHP Native · MySQL · Bootstrap</sub>
     </td>
   </tr>
 </table>
@@ -103,63 +108,6 @@ Technologies: PHP Native · HTML · CSS · JavaScript · Excel · WinSCP
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=HamdanSadad&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
 
 </div>
-
-🟩 Contribution Snake
-<div align="center">
-
-<!--
-To enable the animated contribution snake:
-1. Open the repository's Settings → Secrets and variables → Actions.
-2. Create a GitHub Actions workflow at .github/workflows/snake.yml using the example below.
-3. Commit and push the workflow to the default branch.
-4. After the workflow runs, the generated SVG will be available on the output branch.
--->
-
-<p>
-  <img src="https://raw.githubusercontent.com/HamdanSadad/HamdanSadad/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
-</p>
-
-<sub>If the snake image does not appear yet, enable the GitHub Actions workflow described below and run it once.</sub>
-</div>
-
-<details>
-<summary><strong>⚙️ Setup the contribution snake animation</strong></summary>
-
-Create .github/workflows/snake.yml in this profile repository and paste:
-name: Generate contribution snake
-
-on:
-  schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    timeout-minutes: 5
-    steps:
-      - name: Generate contribution snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: HamdanSadad
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - name: Publish snake to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-After adding the workflow, open the Actions tab and run Generate contribution snake manually once. Make sure Actions are enabled and the workflow has permission to write to the repository.
-</details>
 
 🎓 Education & Certification
 - Universitas Muhammadiyah Cirebon — S1 Informatika · Semester 7
