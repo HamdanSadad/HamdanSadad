@@ -104,9 +104,6 @@ Technologies: PHP Native · HTML · CSS · JavaScript · Excel · WinSCP
 <img src="https://github-readme-stats.vercel.app/api?username=HamdanSadad&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent" height="170" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamdanSadad&layout=compact&langs_count=6&hide_border=true&theme=transparent" height="170" alt="Top languages" />
 
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HamdanSadad&bg_color=0d1117&color=58a6ff&line=39d353&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub activity graph" />
-
 </div>
 
 🎓 Education & Certification
@@ -118,7 +115,6 @@ Technologies: PHP Native · HTML · CSS · JavaScript · Excel · WinSCP
   <a href="mailto:hamdansadad8@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<sub>CV: upload your PDF to this repository as <code>CV_Hamdan_Sadad.pdf</code> and add its link here.</sub>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0F2027,50:203A43,100:2C5364" width="100%" alt="Footer banner" />
   <em>Build with purpose. Learn continuously. Improve every day.</em>
