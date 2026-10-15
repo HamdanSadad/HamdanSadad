@@ -46,11 +46,6 @@ Database & Tools
 🎓 Education & Certification
 - Universitas Muhammadiyah Cirebon — S1 Informatika · Semester 7
 - BNSP Junior Web Development — BPSDM KOMDIGI
-📬 Contact
-<p align="left">
-  <a href="https://www.linkedin.com/in/hamdansadad/"><img src="https://img.shields.io/badge/LinkedIn-Hamdan_Sadad-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:hamdansadad8@gmail.com"><img src="https://img.shields.io/badge/Email-Get_in_touch-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 💼 Experience
 <details open>
